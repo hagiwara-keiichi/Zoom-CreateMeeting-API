@@ -1,7 +1,7 @@
 <?php
 
 $requestMethod = $_SERVER['REQUEST_METHOD'];
-$apiSecret = '<USE YOUR WEB API SECFRET>';
+$apiSecret = '<USE YOUR WEB API SECRET>';
 
 switch($requestMethod) {
     case 'POST':
