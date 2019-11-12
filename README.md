@@ -16,7 +16,7 @@ Create a Meeting<br>
  https://marketplace.zoom.us/docs/api-reference/zoom-api/meetings/meeting
 
 <b>- To do</b><br>
-1: Makre sure that the Web server is runnig SSL along with PHP.<br>
-2: Copy all the files on to the server's directory.<br>
+1: Make sure that the Web server is runnig SSL along with PHP.<br>
+2: Copy all the files on to the server's directory. (e.g. /var/www/html)<br>
 3: Retrieve API Key and Secret from Zoom Market place.<br>
 4: Edit "index.php" and "websdk.php" and add API Key and Secret.<br>
