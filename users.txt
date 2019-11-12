@@ -1,5 +1,4 @@
-administrator@zoomjp.hopto.org,Password!123
-yosuke.sawamura@zoomjp.hopto.org,Password!123
-user01@zoomjp.hopto.org,Password!123
-user02@zoomjp.hopto.org,Password!123
-user03@zoomjp.hopto.org,Password!123
+administrator@example.com,Password123
+user01@example.com,Password123
+user02@example.com,Password123
+user03@example.com,Password123
