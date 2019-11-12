@@ -21,8 +21,8 @@ function Login() {
     if (isset($_POST['useremail']) && isset($_POST['password'])) {
         $useremail = $_POST['useremail'];  
         $password = $_POST['password'];
-        $api_key = 'Bho3ffivQ4y7FcMKfVcB9w';
-        $api_secret = 'jDv7WfNHkoL4s1GkDMPV1xnHIBhjVFBwVknq';
+        $api_key = '<USE YOUR WEB API KEY>';
+        $api_secret = '<USE YOUR WEB API SECRET>';
         $exp = strtotime("+ 90 minutes");
         $file = fopen('./users.txt', 'r');
 
